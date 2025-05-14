@@ -6,6 +6,9 @@ The Cosmopolitan AI Laboratory is an interactive web platform that demonstrates 
 ## 🚀 Live Demo
 Visit the AI Laboratory at: [https://cosmopolitan-ai-lab.example.com](https://cosmopolitan-ai-lab.example.com)
 
+### Access Credentials
+- **Password**: `AndresWongEnteracloud`
+
 ## 🔧 Tools Featured
 
 ### 1. System Prompt Generator
